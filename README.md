@@ -37,7 +37,7 @@ files8-us-east.lightless-sync.org   15.204.238.238
 ### Linux Format
 `sudo nano /etc/hosts`
 ```
-95.217.140.233  sync.lightless-sync.orG
+95.217.140.233  sync.lightless-sync.org
 51.83.43.201    repo.lightless-sync.org
 51.83.43.201    git.lightless-sync.org
 
